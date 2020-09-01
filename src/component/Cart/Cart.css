@@ -11,3 +11,18 @@ h6{
     border-bottom:2px solid goldenrod;
   
 }
+.review{
+    background:goldenrod ;
+    width: 200px;
+    height: 30px;
+    border:1px solid black;
+    border-radius:5px;
+    outline: none;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left:42%;
+    transform: translateX(-50%);
+    color:#000;
+}
